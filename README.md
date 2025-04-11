@@ -1,2 +1,2 @@
-# Python-Projects
-Advance Python Projects
+# Python-Basics
+Basic Python Projects
